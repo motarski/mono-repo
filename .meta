@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "roles": "https://github.com/motarski/role-idempotency.git"
+  }
+}
